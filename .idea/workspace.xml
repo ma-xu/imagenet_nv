@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8ce48bd-5710-4116-9949-e25abaeecd4a" name="Default Changelist" comment="" />
+    <list default="true" id="b8ce48bd-5710-4116-9949-e25abaeecd4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fastai_imagenet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="339" column="20" lean-forward="true" selection-start-line="338" selection-start-column="53" selection-end-line="339" selection-end-column="20" />
+            <state relative-caret-position="1232">
+              <caret line="339" column="20" selection-start-line="338" selection-start-column="53" selection-end-line="339" selection-end-column="20" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
                 <element signature="e#4682#4812#0" />
@@ -41,6 +44,15 @@
                 <element signature="e#10807#10972#0" />
                 <element signature="e#11019#11203#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -69,19 +81,23 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>URLs</find>
-      <find>syn</find>
       <find>cuda</find>
       <find>train_128</find>
       <find>128</find>
       <find>lr</find>
+      <find>syn</find>
       <find>cycle</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/fastai_imagenet.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -91,6 +107,7 @@
     <option name="width" value="1276" />
     <option name="height" value="708" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -103,6 +120,11 @@
             <path>
               <item name="imagenet_nv" type="b2602c69:ProjectViewProjectNode" />
               <item name="imagenet_nv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imagenet_nv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imagenet_nv" type="462c0819:PsiDirectoryNode" />
+              <item name="fastai" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -144,12 +166,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565649791850</updated>
-      <workItem from="1565649793455" duration="3468000" />
+      <workItem from="1565649793455" duration="3737000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3468000" />
+    <option name="totallyTimeSpent" value="3737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1276" height="708" extended-state="0" />
@@ -272,10 +294,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fastai/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/fastai_imagenet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="339" column="20" lean-forward="true" selection-start-line="338" selection-start-column="53" selection-end-line="339" selection-end-column="20" />
+        <state relative-caret-position="1232">
+          <caret line="339" column="20" selection-start-line="338" selection-start-column="53" selection-end-line="339" selection-end-column="20" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
             <element signature="e#4682#4812#0" />
@@ -290,6 +315,13 @@
             <element signature="e#10807#10972#0" />
             <element signature="e#11019#11203#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
